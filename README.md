@@ -1,4 +1,3 @@
-lucasgonzalezgagliardo/README.md
 
 ### Full Stack Web Developer | Art Director | Javascript (ES6), MongoDB, Express, React, NodeJS, Git, GitHub, HTML & CSS | Adobe Illustrator & Adobe Photoshop
 
