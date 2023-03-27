@@ -1,16 +1,14 @@
-### Hi there 👋
+lucasgonzalezgagliardo/README.md
 
-<!--
-**lucasgonzalezgagliardo/lucasgonzalezgagliardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer | Art Director | Javascript (ES6), MongoDB, Express, React, NodeJS, Git, GitHub, HTML & CSS | Adobe Illustrator & Adobe Photoshop
 
-Here are some ideas to get you started:
+Hi! My name is Lucas Gonzalez Gagliardo, I am a full stack web developer and creative art director who enjoys simple yet powerful ideas that produce original results. My goal is to achieve creative, graphic, and functional solutions for brands, institutions, or individuals. I am versatile, multifaceted, and have a positive attitude towards working in teams or as a freelancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies 🚀
+Front-end: HTML, CSS, JavaScript (ES6), React
+Back-end: Node.js, Express
+Database: MongoDB
+Tools: Git, VS Code, npm, Webpack
+
+📫 Contact Me
+LinkedIn - [Lucas Gonzalez Gagliardo](https://linkedin.com/lucasgonzalezgagliardo)
